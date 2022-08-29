@@ -1,0 +1,141 @@
+页面展示3-4个cell
+0
+0x12ed09830
+1
+0x12ef19ca0
+2
+0x12ef2fdb0
+3
+0x131911710
+4
+0x1319137a0
+5
+0x133805810
+
+6
+0x12ed09830
+7
+0x12ef19ca0
+8
+0x12ef2fdb0
+9
+0x131911710
+10
+0x1319137a0
+11
+0x133805810
+
+12
+0x12ed09830
+13
+0x12ef19ca0
+14
+0x12ef2fdb0
+15
+0x131911710
+16
+0x1319137a0
+17
+0x133805810
+
+18
+0x12ed09830
+19
+0x12ef19ca0
+_________________________________________________________________________________
+页面展示3-4个cell
+
+0
+<Swift___Netflix.TitleCollectionViewCell: 0x121f058f0; baseClass = UICollectionViewCell; frame = (0 0; 140 200); layer = <CALayer: 0x600002650660>>
+1
+<Swift___Netflix.TitleCollectionViewCell: 0x123b05e90; baseClass = UICollectionViewCell; frame = (150 0; 140 200); layer = <CALayer: 0x60000263b0e0>>
+2
+<Swift___Netflix.TitleCollectionViewCell: 0x123b4d6a0; baseClass = UICollectionViewCell; frame = (300 0; 140 200); layer = <CALayer: 0x60000263b3e0>>
+0
+<Swift___Netflix.TitleCollectionViewCell: 0x12381c7a0; baseClass = UICollectionViewCell; frame = (0 0; 140 200); layer = <CALayer: 0x600002637960>>
+1
+<Swift___Netflix.TitleCollectionViewCell: 0x12381cdc0; baseClass = UICollectionViewCell; frame = (150 0; 140 200); layer = <CALayer: 0x600002637c00>>
+2
+<Swift___Netflix.TitleCollectionViewCell: 0x12381d7c0; baseClass = UICollectionViewCell; frame = (300 0; 140 200); layer = <CALayer: 0x600002637a20>>
+3
+<Swift___Netflix.TitleCollectionViewCell: 0x121d24ba0; baseClass = UICollectionViewCell; frame = (450 0; 140 200); layer = <CALayer: 0x60000262e840>>
+4
+<Swift___Netflix.TitleCollectionViewCell: 0x121d253c0; baseClass = UICollectionViewCell; frame = (600 0; 140 200); layer = <CALayer: 0x60000262ec20>>
+5
+<Swift___Netflix.TitleCollectionViewCell: 0x121d26410; baseClass = UICollectionViewCell; frame = (750 0; 140 200); layer = <CALayer: 0x60000262daa0>>
+
+6
+<Swift___Netflix.TitleCollectionViewCell: 0x121f058f0; baseClass = UICollectionViewCell; frame = (900 0; 140 200); hidden = YES; layer = <CALayer: 0x600002650660>>
+7
+<Swift___Netflix.TitleCollectionViewCell: 0x123b05e90; baseClass = UICollectionViewCell; frame = (1050 0; 140 200); hidden = YES; layer = <CALayer: 0x60000263b0e0>>
+8
+<Swift___Netflix.TitleCollectionViewCell: 0x123b4d6a0; baseClass = UICollectionViewCell; frame = (1200 0; 140 200); hidden = YES; layer = <CALayer: 0x60000263b3e0>>
+9
+<Swift___Netflix.TitleCollectionViewCell: 0x121d24ba0; baseClass = UICollectionViewCell; frame = (1350 0; 140 200); hidden = YES; layer = <CALayer: 0x60000262e840>>
+10
+<Swift___Netflix.TitleCollectionViewCell: 0x121d253c0; baseClass = UICollectionViewCell; frame = (1500 0; 140 200); hidden = YES; layer = <CALayer: 0x60000262ec20>>
+11
+<Swift___Netflix.TitleCollectionViewCell: 0x121d26410; baseClass = UICollectionViewCell; frame = (1650 0; 140 200); hidden = YES; layer = <CALayer: 0x60000262daa0>>
+
+12
+<Swift___Netflix.TitleCollectionViewCell: 0x121f058f0; baseClass = UICollectionViewCell; frame = (1800 0; 140 200); hidden = YES; layer = <CALayer: 0x600002650660>>
+13
+<Swift___Netflix.TitleCollectionViewCell: 0x123b05e90; baseClass = UICollectionViewCell; frame = (1950 0; 140 200); hidden = YES; layer = <CALayer: 0x60000263b0e0>>
+14
+<Swift___Netflix.TitleCollectionViewCell: 0x123b4d6a0; baseClass = UICollectionViewCell; frame = (2100 0; 140 200); hidden = YES; layer = <CALayer: 0x60000263b3e0>>
+15
+<Swift___Netflix.TitleCollectionViewCell: 0x121d24ba0; baseClass = UICollectionViewCell; frame = (2250 0; 140 200); hidden = YES; layer = <CALayer: 0x60000262e840>>
+16
+<Swift___Netflix.TitleCollectionViewCell: 0x121d253c0; baseClass = UICollectionViewCell; frame = (2400 0; 140 200); hidden = YES; layer = <CALayer: 0x60000262ec20>>
+17
+<Swift___Netflix.TitleCollectionViewCell: 0x121d26410; baseClass = UICollectionViewCell; frame = (2550 0; 140 200); hidden = YES; layer = <CALayer: 0x60000262daa0>>
+
+18
+<Swift___Netflix.TitleCollectionViewCell: 0x121f058f0; baseClass = UICollectionViewCell; frame = (2700 0; 140 200); hidden = YES; layer = <CALayer: 0x600002650660>>
+19
+<Swift___Netflix.TitleCollectionViewCell: 0x123b05e90; baseClass = UICollectionViewCell; frame = (2850 0; 140 200); hidden = YES; layer = <CALayer: 0x60000263b0e0>>
+15
+<Swift___Netflix.TitleCollectionViewCell: 0x121d24ba0; baseClass = UICollectionViewCell; frame = (2250 0; 140 200); hidden = YES; layer = <CALayer: 0x60000262e840>>
+14
+<Swift___Netflix.TitleCollectionViewCell: 0x123b4d6a0; baseClass = UICollectionViewCell; frame = (2100 0; 140 200); hidden = YES; layer = <CALayer: 0x60000263b3e0>>
+_________________________________________________________________________________
+页面展示4-5个cell
+
+0
+<TestForCell.TestTableViewCell: 0x130836a00; baseClass = UITableViewCell; frame = (0 0; 320 44); layer = <CALayer: 0x600000eb7f20>>
+1
+<TestForCell.TestTableViewCell: 0x13082b600; baseClass = UITableViewCell; frame = (0 0; 320 44); layer = <CALayer: 0x600000ed9d60>>
+2
+<TestForCell.TestTableViewCell: 0x13084d200; baseClass = UITableViewCell; frame = (0 0; 320 44); layer = <CALayer: 0x600000ec3ec0>>
+3
+<TestForCell.TestTableViewCell: 0x13084e000; baseClass = UITableViewCell; frame = (0 0; 320 44); layer = <CALayer: 0x600000efb760>>
+4
+<TestForCell.TestTableViewCell: 0x131036600; baseClass = UITableViewCell; frame = (0 0; 320 44); layer = <CALayer: 0x600000ead660>>
+5
+<TestForCell.TestTableViewCell: 0x133014600; baseClass = UITableViewCell; frame = (0 0; 320 44); layer = <CALayer: 0x600000eb9dc0>>
+6
+<TestForCell.TestTableViewCell: 0x13103f000; baseClass = UITableViewCell; frame = (0 0; 320 44); layer = <CALayer: 0x600000eaeb80>>
+7
+<TestForCell.TestTableViewCell: 0x13200bc00; baseClass = UITableViewCell; frame = (0 0; 320 44); layer = <CALayer: 0x600000efca40>>
+
+
+8
+<TestForCell.TestTableViewCell: 0x130836a00; baseClass = UITableViewCell; frame = (0 0; 375 200); hidden = YES; autoresize = W; layer = <CALayer: 0x600000eb7f20>>
+9
+<TestForCell.TestTableViewCell: 0x13082b600; baseClass = UITableViewCell; frame = (0 200; 375 200); hidden = YES; autoresize = W; layer = <CALayer: 0x600000ed9d60>>
+10
+<TestForCell.TestTableViewCell: 0x13084d200; baseClass = UITableViewCell; frame = (0 400; 375 200); hidden = YES; autoresize = W; layer = <CALayer: 0x600000ec3ec0>>
+11
+<TestForCell.TestTableViewCell: 0x13084e000; baseClass = UITableViewCell; frame = (0 600; 375 200); hidden = YES; autoresize = W; layer = <CALayer: 0x600000efb760>>
+12
+<TestForCell.TestTableViewCell: 0x131036600; baseClass = UITableViewCell; frame = (0 800; 375 200); hidden = YES; autoresize = W; layer = <CALayer: 0x600000ead660>>
+13
+<TestForCell.TestTableViewCell: 0x133014600; baseClass = UITableViewCell; frame = (0 1000; 375 200); hidden = YES; autoresize = W; layer = <CALayer: 0x600000eb9dc0>>
+14
+<TestForCell.TestTableViewCell: 0x13103f000; baseClass = UITableViewCell; frame = (0 1200; 375 200); hidden = YES; autoresize = W; layer = <CALayer: 0x600000eaeb80>>
+15
+<TestForCell.TestTableViewCell: 0x13200bc00; baseClass = UITableViewCell; frame = (0 1400; 375 200); hidden = YES; autoresize = W; layer = <CALayer: 0x600000efca40>>
+
+16
+<TestForCell.TestTableViewCell: 0x130836a00; baseClass = UITableViewCell; frame = (0 1600; 375 200); hidden = YES; autoresize = W; layer = <CALayer: 0x600000eb7f20>>
+
